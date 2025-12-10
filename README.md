@@ -3,7 +3,7 @@ This repository contains the compiled Java application used to run the actin–R
 
 Files included:
 actin_frag_simulator.jar,
-README.txt
+README.md
 
 Running the program
 The .jar file runs on its own and opens a graphical user interface. No input files are needed.
